@@ -30,3 +30,9 @@
 #### •	Facilitated regular meetings with chapter leaders to advance the health and organizational growth of fraternities at the University of Denver
 #### •	Served as the primary liaison between seven fraternities and university leadership, maintaining positive relationships with chapter officers, university officials, and other key stakeholders
 #### •	Represented the university and a community of hundreds of members at a national leadership training
+
+# Work Examples
+## Script I made in class from bringing my year long project from OLTP to OLAP
+### This script is an example of the project I did for a 3 sequence class that lasted a whole year. This script allows an individual to bring the relevant data from a very large datawarehouse to a smaller datamart to show to a client. The reason you want to show this to a client is because this is an example of a database that individuals can understand that do not have an analytics background.
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/118484311/202952138-f3cc1f02-3cf2-4f1f-b6f5-bf33b25acb39.png">
+
