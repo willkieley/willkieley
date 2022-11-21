@@ -11,8 +11,9 @@
 ### LinkedIn- [linkedin.com/willkieley](https://www.linkedin.com/in/willkieley/)
 
 # Professional Experience
-## Student Athlete
-### •	Second Place in World Championship as a semi-professional in 2020
-### •	World Championship contender as a professional in 2021 and 2022
+## Competitive Wakesurfer
+### Student Athlete
+#### •	Second Place in World Championship as a semi-professional in 2020
+#### •	World Championship contender as a professional in 2021 and 2022
 #### •	Secured professional sponsorship from Phase 5 Wakesurfers and Minnesota Inboard through social media outreach, quickly building relationships of trust, promoting brand awareness and recognition
 #### •	Effectively manage time to balance professional wake surfing training while attending university full-time; distinguished as only World-ranked Top 10 student-athlete on circuit
