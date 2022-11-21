@@ -32,7 +32,9 @@
 #### •	Represented the university and a community of hundreds of members at a national leadership training
 
 # Work Examples
-## Script I made in class from bringing my year long project from OLTP to OLAP
+## Script I made in class from bringing my year long project from OLTP to OLAP using SQL.
 ### This script is an example of the project I did for a 3 sequence class that lasted a whole year. This script allows an individual to bring the relevant data from a very large datawarehouse to a smaller datamart to show to a client. The reason you want to show this to a client is because this is an example of a database that individuals can understand that do not have an analytics background.
 <img width="554" alt="image" src="https://user-images.githubusercontent.com/118484311/202952138-f3cc1f02-3cf2-4f1f-b6f5-bf33b25acb39.png">
 
+## PowerBI file a group of us worked on in order to answer a relevant business question answering the trends and finding the answers we were looking for
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/118484311/202952557-50fdd1b1-951f-4714-bb2f-8c4ca5ab5054.png">
